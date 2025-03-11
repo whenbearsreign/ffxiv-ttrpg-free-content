@@ -1,0 +1,63 @@
+{
+  "id": "ffxiv-ttrpg-compendia",
+  "title": "FFXIV TTRPG Compendia (Free Content)",
+  "version": "1.2.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "characters",
+      "label": "Characters & NPCs",
+      "path": "packs/characters",
+      "type": "Actor",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "jobs",
+      "label": "Jobs",
+      "path": "packs/jobs",
+      "type": "Item",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Joe",
+      "discord": "Bearistotle",
+      "flags": {}
+    }
+  ],
+  "description": "This compendium aims to include all of the free content for the FFXIV TTRPG in one compendium. The following Compendia are included:\n\n- Characters &amp; NPC: This contains premade level 30 characters as well as Monster enemies from the contained Level 30 FATE.\n- Jobs: These are all of the referenced abilities for each character and Monster.\n- Scenes: Battlemap for included Level 30 FATE \"Cold-Blooded\"\n- Journals: Contains the GM manual for the contained Level 30 FATE \"Cold-Blooded\" with linked references and shareable images.\n\nAll images are contained within this module."
+}
