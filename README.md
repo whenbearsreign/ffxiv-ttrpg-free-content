@@ -15,7 +15,7 @@ To install the module from Github:
   - Go to "Add-on Modules"
   - "Install Module"
   - In "Manifest URL", paste the following:
-      https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/latest/download/module.json
+      <p>https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/latest/download/module.json</p>
 
 To manually install the module without Manifest URL
 
