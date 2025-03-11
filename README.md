@@ -14,10 +14,9 @@ To install the module from Github:
 
   - Go to "Add-on Modules"
   - "Install Module"
-  - In "Manifest URL", paste the following: https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/download/1.2.1/module.json
+  - In "Manifest URL", paste the following: https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/latest/download/module.json
 
 To manually install the module without Manifest URL
 
   - Download and unzip Master file
-  - Place all files withing the provided directory "ffxiv-ttrpg-compendia". I'm sure there's a better way to do this, but I don't know it!
   - Put the directory "ffxiv-ttrpg-compendia" into your Foundry user data under `Data/modules/`
