@@ -1,4 +1,4 @@
-# ffxiv-ttrpg-free-content
+# ffxiv-ttrpg-free-content for Foundry VTT (v12)
 A compendium module for FFXIV TTRPG that includes all of the free content available publicly. This is intended to be used with https://github.com/Valamyrr/FFxivTTRPG
 
 This compendium aims to include all of the free content for the FFXIV TTRPG in one compendium. The following Compendia are included:
