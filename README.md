@@ -1,4 +1,4 @@
-# ffxiv-ttrpg-free-content
+# ffxiv-ttrpg-free-content for Foundry VTT (v12)
 A compendium module for FFXIV TTRPG that includes all of the free content available publicly. This is intended to be used with https://github.com/Valamyrr/FFxivTTRPG
 
 This compendium aims to include all of the free content for the FFXIV TTRPG in one compendium. The following Compendia are included:
@@ -14,7 +14,7 @@ To install the module from Github:
 
   - Go to "Add-on Modules"
   - "Install Module"
-  - In "Manifest URL", paste the following: https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/blob/main/module.json
+  - In "Manifest URL", paste the following: https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/download/1.2.1/module.json
 
 To manually install the module without Manifest URL
 
