@@ -3,7 +3,7 @@
   "title": "FFXIV TTRPG Compendia (Free Content)",
   "version": "1.2.3",
   "manifest": "https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/latest/download/module.json",
-  "download": "https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/download/1.2.3/ffxiv-ttrpg-compendia.zip",
+  "download": "https://github.com/whenbearsreign/ffxiv-ttrpg-free-content/releases/download/1.3/ffxiv-ttrpg-compendia.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
